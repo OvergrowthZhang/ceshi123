@@ -10,7 +10,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://gitee.com/ShuiQingLiaoFuSheng/ceshi/raw/master/CBDEXS.ipa</string>
+					<string>https://raw.githubusercontent.com/OvergrowthZhang/ceshi123/master/CBDEXS.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -18,7 +18,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://gitee.com/ShuiQingLiaoFuSheng/ceshi/raw/master/icon120.png</string>
+					<string>https://raw.githubusercontent.com/OvergrowthZhang/ceshi123/master/icon120.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -26,7 +26,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://gitee.com/ShuiQingLiaoFuSheng/ceshi/raw/master/icon180.png</string>
+					<string>https://raw.githubusercontent.com/OvergrowthZhang/ceshi123/master/icon180.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
